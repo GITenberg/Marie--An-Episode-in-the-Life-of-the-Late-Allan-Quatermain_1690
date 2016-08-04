@@ -1,0 +1,40 @@
+_repo: Marie--An-Episode-in-the-Life-of-the-Late-Allan-Quatermain_1690
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: "Marie is a 1912 novel by H. Rider Haggard featuring Allan Quatermain.\
+  \ The plot concerns Quatermain as a young man and involves his first marriage, to\
+  \ the Boer farm girl, Marie Marais. Their romance is opposed by Marie's anti-English\
+  \ father, and the villainous Pereira, who desires Marie. They are Voortrekkers who\
+  \ take part in the Great Trek whom Quatermain has to rescue.\nThe novel describes\
+  \ Quatermain's involvement in the Sixth Xhosa War of 1835 and Weenen massacre. Real\
+  \ life people such as Piet Retief, Thomas Halstead, and the Zulu chief Dingane appear\
+  \ as characters. Events in Nada the Lily are frequently referred to.\n\n\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '1999-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1690'
+  wikidata: Q6762733
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Quatermain, Allan (Fictitious character) -- Fiction'
+- GITenberg
+title: 'Marie: An Episode in the Life of the Late Allan Quatermain'
+url: http://www.gutenberg.org/ebooks/1690
+wikipedia:
+- https://en.wikipedia.org/wiki/Marie_(novel)

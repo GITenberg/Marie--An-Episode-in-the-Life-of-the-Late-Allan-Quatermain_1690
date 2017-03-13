@@ -1,5 +1,8 @@
 _repo: Marie--An-Episode-in-the-Life-of-the-Late-Allan-Quatermain_1690
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -20,6 +23,8 @@ description: "Marie is a 1912 novel by H. Rider Haggard featuring Allan Quaterma
   \ life people such as Piet Retief, Thomas Halstead, and the Zulu chief Dingane appear\
   \ as characters. Events in Nada the Lily are frequently referred to.\n\n\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1690#Marie--An-Episode-in-the-Life-of-the-Late-Allan-Quatermain
 gutenberg_bookshelf: Adventure
 gutenberg_issued: '1999-03-01'
 gutenberg_type: Text
